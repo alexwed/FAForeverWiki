@@ -11,13 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FAForeverWikiX")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("SaSHAntGroup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("FAForeverWikiX")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("0.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.5.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("FAForever Wiki")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FAForeverWikiX")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("0.5.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

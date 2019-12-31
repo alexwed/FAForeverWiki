@@ -308,7 +308,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -804,7 +804,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1301,7 +1301,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -1622,7 +1622,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -2118,7 +2118,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -2615,7 +2615,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -3111,7 +3111,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -3608,7 +3608,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -7474,7 +7474,7 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "FAForeverWikiX/1.0.0": {
+    "FAForeverWikiX/0.5.0": {
       "type": "project",
       "path": "../FAForeverWikiX/FAForeverWikiX.csproj",
       "msbuildProject": "../FAForeverWikiX/FAForeverWikiX.csproj"
@@ -7482,7 +7482,7 @@
   },
   "projectFileDependencyGroups": {
     "UAP,Version=v10.0.16299": [
-      "FAForeverWikiX >= 1.0.0",
+      "FAForeverWikiX >= 0.5.0",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.1.5",
       "Xamarin.Forms >= 3.4.0.1008975"
     ]

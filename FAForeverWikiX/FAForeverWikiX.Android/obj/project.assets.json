@@ -341,7 +341,7 @@
           "build/Xamarin.Forms.targets": {}
         }
       },
-      "FAForeverWikiX/1.0.0": {
+      "FAForeverWikiX/0.5.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -777,7 +777,7 @@
         "xamarin.forms.nuspec"
       ]
     },
-    "FAForeverWikiX/1.0.0": {
+    "FAForeverWikiX/0.5.0": {
       "type": "project",
       "path": "../FAForeverWikiX/FAForeverWikiX.csproj",
       "msbuildProject": "../FAForeverWikiX/FAForeverWikiX.csproj"
@@ -785,7 +785,7 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
-      "FAForeverWikiX >= 1.0.0",
+      "FAForeverWikiX >= 0.5.0",
       "Xamarin.Android.Support.Design >= 27.0.2.1",
       "Xamarin.Android.Support.v4 >= 27.0.2.1",
       "Xamarin.Android.Support.v7.AppCompat >= 27.0.2.1",

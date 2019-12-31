@@ -6,12 +6,7 @@
         <StackLayout
             BackgroundColor="DimGray"
             VerticalOptions="FillAndExpand">
-            <Label Text="ВЫБЕРИТЕ ЮНИТА"
-                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand"
-                FontSize="Large"
-                FontAttributes="Bold"
-                TextColor="WhiteSmoke" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
