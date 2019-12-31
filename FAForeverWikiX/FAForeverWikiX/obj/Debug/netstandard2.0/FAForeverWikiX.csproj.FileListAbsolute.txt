@@ -1,0 +1,13 @@
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\bin\Debug\netstandard2.0\FAForeverWikiX.deps.json
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\bin\Debug\netstandard2.0\FAForeverWikiX.dll
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\bin\Debug\netstandard2.0\FAForeverWikiX.pdb
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.csprojAssemblyReference.cache
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.csproj.CoreCompileInputs.cache
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.AssemblyInfoInputs.cache
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.AssemblyInfo.cs
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.dll
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\FAForeverWikiX.pdb
+D:\Alexandr Olegovich\Projects\FAForeverWikiX\FAForeverWikiX\FAForeverWikiX\obj\Debug\netstandard2.0\ListPage.xaml.g.cs

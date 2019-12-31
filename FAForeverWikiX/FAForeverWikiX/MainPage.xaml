@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:FAForeverWikiX"
+             x:Class="FAForeverWikiX.MainPage">
+
+    <StackLayout>
+        <StackLayout 
+            BackgroundColor="DimGray"
+            VerticalOptions="FillAndExpand">
+            <Label Text="ВЫБОР ФРАКЦИИ" 
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                FontSize="Large"
+                FontAttributes="Bold"
+                TextColor="WhiteSmoke"/>
+            <StackLayout 
+                BackgroundColor="DimGray"
+                VerticalOptions="CenterAndExpand">
+                <Button Text="Aeon"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Start" 
+                    BackgroundColor="ForestGreen"
+                    FontSize="Large" 
+                    Margin="5"
+                    TextColor="WhiteSmoke"
+                    Clicked="AeonLoad" />
+                <Button Text="UEF"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Start" 
+                    BackgroundColor="CornflowerBlue"
+                    FontSize="Large" 
+                    Margin="5" 
+                    TextColor="WhiteSmoke"
+                    Clicked="UEFLoad"/>
+                <Button Text="Cybran"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Start" 
+                    BackgroundColor="IndianRed"
+                    FontSize="Large" 
+                    Margin="5" 
+                    TextColor="WhiteSmoke"
+                    Clicked="CybranLoad"/>
+                <Button Text="Seraphim"
+                    HorizontalOptions="FillAndExpand"
+                    VerticalOptions="Start" 
+                    BackgroundColor="Goldenrod"
+                    FontSize="Large" 
+                    Margin="5" 
+                    TextColor="WhiteSmoke"
+                    Clicked="SeraphimLoad"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>
