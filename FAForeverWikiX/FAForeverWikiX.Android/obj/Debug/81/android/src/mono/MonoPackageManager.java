@@ -106,6 +106,7 @@ public class MonoPackageManager {
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "FAForeverWikiX.Android.dll" comes first in this list. */
+		"FAForeverWikiX.Android.dll",
 		"FAForeverWikiX.dll",
 		"FormsViewGroup.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",

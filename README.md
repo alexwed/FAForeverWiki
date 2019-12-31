@@ -1,7 +1,7 @@
 # About a project
 This big project about Wiki App for Supreme Comander: Forget Aliance Forever and has two small projects. 
-- first: small project responsible for data collection from suit - http://direct.faforever.com/faf/unitsDB;
-- second: app for players on mobile phones with connectig received data base from first project.
+- first DataBaseFAFWiki: small project responsible for data collection from suit - http://direct.faforever.com/faf/unitsDB;
+- second FAForeverWikiX (X like Xamarin): app for players on mobile phones with connectig received data base from first project.
 # Story
 This short story about this small info-app for gamers Supreme Comander: Forget Aliance Forever.
 
@@ -9,7 +9,7 @@ One year ago first demo-version v0.1 was loaded in Google Play and received more
 
 So... Right now develop this app to be continue. As you can see, first commit was pushed on Github and soon will be droped release v1.0 on Google Play.
 
-And, when Our company will buy a iPhone, we will develop new version this app on iOs.
+And, when Our company will buy a new iPhone, we will develop new version this app on iOS.
 
 Im sorry for my bad English, just Im stupid Russian developer.
 Good luck, have fun! ;)
